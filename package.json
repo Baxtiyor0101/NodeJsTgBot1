@@ -1,0 +1,21 @@
+{
+  "name": "tgbot",
+  "version": "1.0.0",
+  "description": "this is our super telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "super",
+    "demo",
+    "telegram",
+    "bot"
+  ],
+  "author": "Baxtiyor",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^2.1.0",
+    "telebot": "^1.4.1"
+  }
+}
